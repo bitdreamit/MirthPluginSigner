@@ -1,4 +1,0 @@
-    <templateClassName>com.bitdreamit.ssl.client.SSLManagerReferencePlugin</templateClassName>
-    <userutilPackages>
-        <string>com.bitdreamit.ssl.server.userutil</string>
-    </userutilPackages>
